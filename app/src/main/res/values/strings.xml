@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">List Compose</string>
+    <string name="search">Buscar</string>
+    <string name="filter">Filtrar</string>
+</resources>
